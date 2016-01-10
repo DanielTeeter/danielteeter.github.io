@@ -1,0 +1,107 @@
+
+/*--------PAGE---------------*/
+
+body {
+	font-family: 'Karla', arial, sans-serif;
+	line-height: 14px;
+	background-color: #E0E0E0;
+}
+
+#page {
+    background: white;
+    box-shadow: 3px 3px 10px 2px #C0C0C0;
+    margin: 30px auto 30px auto;
+ 	width:900px;
+ 	padding: 50px 60px 50px 60px;
+}
+
+h1 {
+	font-size: 18px;
+	margin-bottom:-5px;
+	margin-top:50px;
+}
+
+h2 {
+	font-size: 16px;
+	margin: 0px;
+}
+
+h3 {
+	font-size: 14px;
+}
+
+hr {
+	border-style:none;
+	height:1px;
+	background-color: #000000;
+}
+
+.p-noindent {
+	margin: 2px 10px 0px 125px;
+	font-style: italic;
+}
+
+.emptycontainer {
+	margin: 25px;
+}
+
+/*--------TOP SECTION ------------*/
+
+#contact {
+	text-align: center;
+	line-height: 20px;
+}
+
+
+/*--------MAIN BODY------------*/
+
+table, th, td {
+   table-layout: fixed;
+   line-height: 17px;
+}
+
+.leftcolumn {
+	width: 120px;
+}
+
+.midcolumn {
+	width: 630px;
+}
+
+.midcolumnbold {
+	width: 630px;
+	font-weight: bold;
+}
+
+.midcolumnitalics {
+	width: 630px;
+	font-style: italic;
+}
+
+.midcolumnbolditalics {
+	width: 630px;
+	font-style: italic;
+	font-weight:bold;
+}
+
+.rightcolumn {
+	width: 150px;
+	text-align:right;
+}
+
+/*------LISTS-------------------------------*/
+.ul {
+	margin: 3px 30px 0px 104px;
+	line-height:16px;
+}
+
+li {
+	line-height:19px;
+	margin-bottom:2px;
+}
+
+.liadditionaldata {
+	margin-bottom:1px;
+}
+
+
