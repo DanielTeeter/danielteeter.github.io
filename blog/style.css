@@ -1,0 +1,60 @@
+body {
+	background-color:#cccccc;
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+  	font-size: 1.6em;
+  	line-height: 1.42857143;
+  	color: #333333;
+  	margin:0;
+  	padding:0;
+    border:none;
+    overflow-x: hidden;
+}
+
+.container {
+	margin-top:25px;
+	background-color:#ffffff;
+	padding: 0px 20px 20px 20px;
+	box-shadow: -5px -5px 40px #888888;
+}
+
+.navbar {
+	background-color: transparent;
+	border:none;
+	height:133px;
+	font-color:red;
+	border:none;
+}
+
+#navbarseparator {
+	height:110px;
+	margin-right:-10%;
+  	margin-left:-10%;
+	border:none;
+   	background-image: url("img/butcherblock5.png");
+   	background-repeat: repeat-x;
+   	border:none;
+   	box-shadow: 10px 10px 5px #888888;
+}
+
+#logostyle {
+	margin-top:-110px;
+	margin-bottom:-100px;
+	border:none;
+	vertical-align: bottom;
+}
+
+#headclass {
+  	background-color:#ccf2ff;
+  	margin-right:-10%;
+  	margin-left:-10%;
+    border:none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.nav > li > a:focus {
+  color: #bfbfbf;
+}
